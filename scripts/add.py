@@ -4,6 +4,8 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 
 # User can add name and favourite sport in response.json
+name='Firat'
+sport='chess'
 # default sport Cricket will be added incase user does not provide fav sport
 
 
